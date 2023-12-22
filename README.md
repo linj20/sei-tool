@@ -1,6 +1,6 @@
 # sei-tool
 
-## female voice yellow rate away burger been again spend dynamic seed squirrel
+## 
 
 然后运行命令
 
